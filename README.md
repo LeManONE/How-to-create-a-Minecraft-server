@@ -13,7 +13,6 @@ Creating your own minecraft from the server from A to Z
 - [ ] none
 - [ ] none
 - [ ] none
-хуй
 - [ ] none
 
 
