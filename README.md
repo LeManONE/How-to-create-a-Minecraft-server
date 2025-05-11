@@ -7,7 +7,7 @@ Creating your own minecraft from the server from A to Z
 # 📈Repository Availability:
 ## Ready to transfer
 - [ ] English [0%]
-- [x] Russian [0%]
+- [x] Russian [1%]
 ## Filling in sections
 - [ ] none
 - [ ] none
