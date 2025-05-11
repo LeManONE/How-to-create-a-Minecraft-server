@@ -1,6 +1,7 @@
 # **How-to-create-a-Minecraft-server**
 > [!NOTE]
 > The repository is under development, and there may be errors or information gaps.
+
 Creating your own minecraft from the server from A to Z
 
 # 📈Repository Availability:
