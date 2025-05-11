@@ -9,11 +9,11 @@ Creating your own minecraft from the server from A to Z
 - [ ] English [0%]
 - [x] Russian [1%]
 ## Filling in sections
-- [ ] none
-- [ ] none
-- [ ] none
-- [ ] none
-- [ ] none
+- [ ] 🧱 Building a Home Server [0%]
+- [ ] 💻 Configuring a VM/VPS/VDS [0%]
+- [ ] 🎲 For Panel-Based Hosting [0%]
+- [ ] 📚 Server Configuration [15%]
+- [x] 🔎 FAQ – Tips & Advice
 
 
 # **Choose your language / Выберите ваш язык**
