@@ -1,26 +1,26 @@
-# Для удобства гайд разбит на разделы, вы можете приступать с любого из них. Выбор раздела зависит от того, как вы создаёте свой сервер, используя домашний сервер, VDS/VPS или панельный хостинг.
+# For convenience, the guide is divided into sections, you can start from any of them. The choice of the section depends on how you create your server, using a home server, VDS/VPS or panel hosting.
 
-## 🧱 Сборка домашнего сервера
-- [Сборка комплектующих.]()
-- [Установка proxmax / esxi]()
-- [Создание виртуальной машины]()
-- [Подключение Pterodactyl]()
+## 🧱 Building a Home Server
+- [Hardware assembly (selecting and installing components)]()
+- [Installing Proxmox VE / VMware ESXi (hypervisor setup)]()
+- [Creating a virtual machine (VM) (OS deployment)]()
+- [Setting up Pterodactyl (game server management panel)]()
 
-## 💻 Настройка виртуалки/VPS/VDS
-- [Установка необходимых пакетов]()
-- [Загрузка ядра]()
-- [Флаги запуска / скрипт запуска]()
+## 💻 Configuring a VM/VPS/VDS
+- [Installing required packages]()
+- [Loading and configuring the kernel]()
+- [Launch flags / startup script (JVM args, auto-start settings)]()
 
-## 🎲 Если вы используете панельный хостинг
-- [Выбор хостинга]()
+## 🎲 For Panel-Based Hosting
+- [Choosing a hosting provider (with control panel support)]()
 
-## 📚Настройка сервера
-- [server.properties]()
-- [Настройка ядра / оптимизация]()
-- [Установка плагинов (где и как их искать)]()
-- [Оптимизация карты]()
-- [Подключение discord srv]()
-- [Подключение домена серверу (рег.ру / cloudeflare)]()
+## 📚 Server Configuration
+- [Editing server.properties (core server settings)]()
+- [Kernel tuning / performance optimization]()
+- [Installing plugins (sources: SpigotMC, Bukkit, official repos)]()
+- [Map optimization]()
+- [Discord SRV integration (bot setup, webhook configuration)]()
+- [Connecting a domain (DNS setup via Reg.ru / Cloudflare)]()
 
-## 🔎 FAQ - Советы
-Раздел с ответами на популярные вопросы, общими советами по развитию проекта и т.д
+## 🔎 FAQ – Tips & Advice
+Troubleshooting, hardware recommendations, network latency optimizations, etc.
