@@ -1,4 +1,5 @@
 # 💻 Ready-made sh and bat files to run your server.
+[check file](StartFiles/start.sh "start.sh")
 You need to put this file in the root directory of your Minecraft server.<br>
 If you are using Linux, then go to the server directory and write the command:
 ```
@@ -7,6 +8,7 @@ If you are using Linux, then go to the server directory and write the command:
 If you are using Windows, then run .bat file.
 
 # 💻 Готовые файлы sh и bat для запуска вашего сервера.
+[готовый скрипт](StartFiles/start.sh "start.sh")
 Вам нужно поместить этот файл в корневую директорию вашего сервера Minecraft.
 Если вы используете Linux, то перейдите в директорию сервера и напишите команду:
 ```
