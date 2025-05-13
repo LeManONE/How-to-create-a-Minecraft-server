@@ -5,6 +5,7 @@
 Начиная с версии 23w31a, если этот файл не был найден, то он генерируется со следующим содержанием:
 <details>
 <summary>Нажми на меня</summary>
+  
 ```
 #Minecraft server properties
 #(File modification date and time)
