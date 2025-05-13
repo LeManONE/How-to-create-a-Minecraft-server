@@ -70,7 +70,8 @@ spawn-protection=16
 resource-pack-sha1=
 max-world-size=29999984
 ```
-</details> <br>
+</details>
+
 ## ⚙ allow-flight
 Может принимать параметры (boolean):
 - true
