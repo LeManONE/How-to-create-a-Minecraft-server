@@ -15,6 +15,10 @@ Creating your own minecraft from the server from A to Z
 - [ ] 📚 Server Configuration [15%]
 - [x] 🔎 FAQ – Tips & Advice
 
+# Before studying, it is advisable to have a basic understanding of the following technologies:
+- what is the Internet and how does it work?
+- what is an ip address and port?
+- what is linux? linux command line.
 
 # **Choose your language / Выберите ваш язык**
 
