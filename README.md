@@ -12,7 +12,7 @@ Creating your own minecraft from the server from A to Z
 - [ ] 🧱 Building a Home Server [0%]
 - [ ] 💻 Configuring a VM/VPS/VDS [33%]
 - [ ] 🎲 For Panel-Based Hosting [0%]
-- [ ] 📚 Server Configuration [15%]
+- [ ] 📚 Server Configuration [30%]
 - [x] 🔎 FAQ – Tips & Advice
 
 # Before studying, it is advisable to have a basic understanding of the following technologies:
