@@ -2,7 +2,7 @@
 > [!NOTE]
 > The repository is under development, and there may be errors or information gaps. 
 
-Creating your own minecraft from the server from A to Z
+Creating your own minecraft from the server from A to Z. 
 
 # 📈Repository Availability:
 ## Ready to transfer
