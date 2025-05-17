@@ -7,7 +7,7 @@ Creating your own minecraft from the server from A to Z.
 # 📈Repository Availability:
 ## Ready to transfer
 - [ ] English [0%]
-- [x] Russian [1%]
+- [x] Russian [20%]
 ## Filling in sections
 - [ ] 🧱 Building a Home Server [0%]
 - [ ] 💻 Configuring a VM/VPS/VDS [33%]
